@@ -41,3 +41,4 @@ Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 SystemRequirements: JAGS 4.x.y
+Config/Needs/website: poissonconsulting/poissontemplate
