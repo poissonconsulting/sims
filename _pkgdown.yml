@@ -1,4 +1,3 @@
 url: https://poissonconsulting.github.io/sims/
 template:
-  bootstrap: 5
-
+  package: poissontemplate
